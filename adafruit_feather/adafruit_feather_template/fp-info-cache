@@ -1,0 +1,162 @@
+37878476539945
+Shulltronics_Generics
+CP_Radial_D3mm_P2mm_Vert
+Polarized Cap, Radial, Vertical Mount, pitch=2.00mm, diameter=3mm
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Shulltronics_Generics
+CP_Radial_D5mm_P2.5mm_Horiz
+Polarized Capacitor, Radial, Vertical Mount, pitch=2.50mm, diameter=5mm
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Shulltronics_Generics
+CP_Radial_D5mm_P2.5mm_Vert
+Polarized Capacitor, Radial, Vertical Mount, pitch=2.50mm, diameter=5mm
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Shulltronics_Generics
+C_0402_HandSolder
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Shulltronics_Generics
+C_Radial_2.54mm_Vert
+Unpolarized Cap, 2.54mm (0.1") Pitch, 4.6mm (1.8") Body, Vertical Mount
+
+0
+2
+2
+Shulltronics_Generics
+DIP-8
+
+
+0
+8
+8
+Shulltronics_Generics
+DIP-14
+
+
+0
+14
+14
+Shulltronics_Generics
+DIP-16
+16-lead though-hole mounted DIP package, row spacing 300 mils (7.62 mm)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Shulltronics_Generics
+DO-35
+
+
+0
+2
+2
+Shulltronics_Generics
+LED_3MM
+
+
+0
+2
+2
+Shulltronics_Generics
+LED_5MM
+
+
+0
+2
+2
+Shulltronics_Generics
+LED_0402
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+Shulltronics_Generics
+RES-0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Shulltronics_Generics
+RES_THT_5.08mm
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+Shulltronics_Generics
+RES_THT_7.62mm
+Resistor, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+Shulltronics_Generics
+SMD_SolderJumper-3
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+3
+Shulltronics_Generics
+SOT-23-3
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+Shulltronics_Generics
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+Shulltronics_Generics
+Shulltronics_Logo
+
+
+0
+0
+0
+Shulltronics_Generics
+TO-92
+
+
+0
+3
+3
+Shulltronics_Generics
+TSSOP-20_4.4x6.5mm_P0.65mm
+TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
+Shulltronics_Generics
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+Shulltronics_Generics
+logo_test
+
+
+0
+0
+0
