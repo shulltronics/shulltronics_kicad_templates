@@ -1,4 +1,4 @@
-20243898637168369
+20246100257720130
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79365,6 +79365,13 @@ LED
 0
 2
 2
+Shulltronics_Generics
+LOGO-feather
+
+
+0
+0
+0
 Shulltronics_Generics
 RES-0402
 Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
